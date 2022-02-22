@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of Oliver Hawley and John Condon who were executed at Tyburn on Friday the 2d of July 1686 for robing His Majesties male near Ilford in the county of Essex.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24571</idno>
+            <idno type="STC">Wing A217</idno>
+            <idno type="STC">ESTC R23575</idno>
+            <idno type="EEBO-CITATION">07708785</idno>
+            <idno type="OCLC">ocm 07708785</idno>
+            <idno type="VID">40100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1139:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of Oliver Hawley and John Condon who were executed at Tyburn on Friday the 2d of July 1686 for robing His Majesties male near Ilford in the county of Essex.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hawley, Oliver, d. 1686?</term>
+               <term>Condon, John, d. 1686?</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Robbery --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account_of_execution">
+            <pb facs="tcp:40100:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <head>AN ACCOUNT OF Oliver Hawley AND John Condon, Who were Executed at TYBURN, On <hi>Friday</hi> the 2d. of <hi>July,</hi> 1686, For Robing His Majeſties <hi>Male,</hi> near ILFORD, in the County of ESSEX.</head>
+            <p>WHereas <hi>R</hi>— <hi>A</hi>— <hi>Oliver Hawley,</hi> and <hi>John Condon,</hi> were on <hi>Tueſday</hi> the 22d. of <hi>July,</hi> 1686. Tryed at the <hi>King's-Bench<g ref="char:punc">▪</g> Bar,</hi> for Robing the King's <hi>Male,</hi> on the 12th. Day of <hi>April</hi> laſt paſt, at or near <hi>Ilford,</hi> in the County of <hi>Eſſex,</hi> and upon full Evi<g ref="char:EOLhyphen"/>dence, found Guilty of the ſaid Robe<g ref="char:EOLhyphen"/>ry; together with one <hi>John Smith,</hi> not yet Apprehended; it has ſince pleaſed his moſt Gracious Majeſty to
+<pb n="2" facs="tcp:40100:2"/>
+               <!-- PDF PAGE 39 -->extend his Royal Mercy to <hi>R</hi>— <hi>A</hi>— in Granting him his Reprieve, who continues ſtill in <hi>Newgate,</hi> in hopes of his Majeſties farther Clemency.</p>
+            <p>I ſhall not pretend here, to give any particular Account of the Life or Cha<g ref="char:EOLhyphen"/>racter of <hi>R</hi>— <hi>A</hi>— as being an Object of the King's Mercy; not doubting but whatever former Faults he may have Committed, the influence of ſo much Royal Grace and Favour ſhewed upon him, may be a means of that ſolid Converſion, which may re<g ref="char:EOLhyphen"/>gulate his future Actions, as to make the remainder of his Life, attone for his paſt Follys and Offences.</p>
+            <p>My preſent Buſineſs therefore, is to give you ſome knowledge of <hi>Oliver Hawley</hi> and <hi>John Condon,</hi> the preſent juſt Sufferers for this Notorious Robery.</p>
+            <p>The more Eminent of which Male<g ref="char:EOLhyphen"/>factors <hi>Oliver Hawley,</hi> Aged at his Death about Thirty Years, was by Birth an <hi>Iriſhman</hi> and accordingly re<g ref="char:EOLhyphen"/>ceived his Education in his Youth in his Native Country, till about Ten Years ſince, through ſome unhappy Miſdemeanors, Committed there, he was Compelled to quit <hi>Ireland,</hi> and take Sanctuary in <hi>England,</hi> where being in <hi>Kent,</hi> and living to that height of Expences, which the Pockets of his Relations were not well able to ſupport, and for the maintenance of which, it was very much ſuſpected he muſt have uſed no very honeſt Courſe of Life, as was ſoon after made manifeſt; for in a a little time after he Robed a Farmer, that lived on the back ſide of <hi>Windmill Hill,</hi> near <hi>Graveſend</hi> in <hi>Kent,</hi> of 9 <abbr>
+                  <hi>l.</hi>
+               </abbr> and upwards, for which, he was Appre<g ref="char:EOLhyphen"/>hended and Committed to <hi>Maidſtone-Goal,</hi> and for the ſaid Fact received Sentence of Condemnation: Never the leſs, through great interceſſion, he obtained ſo much Remiſſion of his Sentence, as to be Reprieved from Death and Tranſported to <hi>Jamai<g ref="char:EOLhyphen"/>ca.</hi> But truly, that Country agreed ſo little with his Conſtitution, that he made a ſhift in a very ſhort time to get home; and to divert the Danger of a too early appearance in <hi>England,</hi> he went over into <hi>Flanders,</hi> and enter him<g ref="char:EOLhyphen"/>ſelf a Souldier, under the late <hi>James Scot,</hi> then at the Seige of <hi>Maſtricht;</hi> however, this Honourable Employ<g ref="char:EOLhyphen"/>ment, being not extraordinary much in his Element, he continued not long in that ſervice, for growing in League with one of his Comrades, they Confederated together, and Com<g ref="char:EOLhyphen"/>mitted a very Notorious Robery, and afterwards (as Brothers in iniquity are not always the ſtrongeſt Friends) a Quarrel aroſe between them, in which, he made a ſhift to Kill his ſaid Comrade, and ſo very fairly, by way of ſelf preſervation, he took Care to avoid a double Danger, that threat<g ref="char:EOLhyphen"/>ned him for both thoſe Crimes, by flying to <hi>Bourdeuux,</hi> where being ſafe<g ref="char:EOLhyphen"/>ly Arrived, he had Recourſe to a never failing Tallent of his, <hi>viz.</hi> good Words and hearty Proteſtations, and thereby wrought himſelf ſo far into the Favour of a Maſter of a Ship then bound with <hi>French Wines</hi> for <hi>England,</hi> as to ſelect him for his peculiar Friend and confident, Careſſing him before, and alſo during his whole Voyage at no common rate of Civility, bearing his whole Charges, and ſupplying his whole Wants for bare asking for: For all thoſe many and ſignal Cour<g ref="char:EOLhyphen"/>teſies; no ſooner was the Maſter of the ſaid Ship Arrived in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but the firſt Return of Gratitude from the ſaid <hi>Hawley,</hi> the Snake, that Patron had ſo generouſly warm'd in his Boſome, was inſtantly to inform the Commiſſioners of the <hi>Cuſtome</hi>-Houſe of the ſaid French Wines, then imported contrary to Act of Parlia<g ref="char:EOLhyphen"/>ment; by this means the whole Car<g ref="char:EOLhyphen"/>goe was ſeized and condemned, and the poor Maſter of the Veſſel utterly Ruined and undone. Upon this, he got into ſome Buſineſs about the <hi>Cuſtome-Houſe,</hi> and being in ſome Cre<g ref="char:EOLhyphen"/>dit
+<pb n="3" facs="tcp:40100:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->from this preferment, he ſoon af<g ref="char:EOLhyphen"/>ter, with ſome other fellow ſervants of his own Quality, went down the River to attend the coming in of ſome Ships then expected, and accordingly they went aboard of an <hi>Eaſt-India</hi> Merchant, where a certain Lady was on Board to buy ſome Rarities, wherein the ſaid <hi>Hawley</hi> did her ſome little ſer<g ref="char:EOLhyphen"/>vice, for which ſhe gave him a Guinea. But <hi>Hawley,</hi> upon further ſearch on his Majeſtys Account in the ſaid Ship, took occaſion to be brib'd to a Connivance, by a preſent of Silks made to him, (for indeed, a perſon ſo notoriouſly falſe before to his Friend, would not be over apt of being extraordinary true to his Prince;) but his fellow ſearchers ſu<g ref="char:EOLhyphen"/>ſpecting <hi>Hawley,</hi> made bold to open the bundle of Silks (which he pretended was foul Linnen) and thereby detect<g ref="char:EOLhyphen"/>ed his Corruption, for which being complained of, he was turned out; the loſs of which Employment put him to hard ſhifts, but by a ſudden fetch of Wit, he applyed himſelf to the aforeſaid Lady, and very cuningly telling of her a falſe ground of his Expulſion, he repreſent<g ref="char:EOLhyphen"/>ing to her, that the Receipt of her Gui<g ref="char:EOLhyphen"/>nea, and not his own Bribery, was the occaſion of his turning out, interceſſion was made for him, and he regained his admiſſion into his place; upon this, ſome of his Brethren reſenting this falſe inſinuation, and not over-well likeing the Behaviour and Principals of the ſaid <hi>Hawley,</hi> got a Copy of his former Conviction for Ro<g ref="char:EOLhyphen"/>bery in <hi>Kent,</hi> and were juſt upon cra<g ref="char:EOLhyphen"/>ving Judgment thereupon, but <hi>Haw<g ref="char:EOLhyphen"/>ley</hi> being timely Alarum'd at the Pro<g ref="char:EOLhyphen"/>ſecution againſt him, very prudently withdrew, and kept himſelf hid, till he got himſelf into a Free-Pardon, during this time, having heaped together no lit<g ref="char:EOLhyphen"/>tle indignation &amp; malice againſt his late Proſecutors; he took occaſion of vent<g ref="char:EOLhyphen"/>ing his Poiſon and Spleen, by ſwearing againſt a very great Number of them, how juſtly, or unjuſtly he was their Accuſer; God only that knows the Secrets of mens hearts can truly judge; however, he ſo far ſtrugled up in the World again, that he at length got in<g ref="char:EOLhyphen"/>to Employment again, in <hi>Eſſex</hi>
+            </p>
+            <p>He was in a Creditable and pro<g ref="char:EOLhyphen"/>fitable Station, when he entered into this Combination of Robing the <hi>Male,</hi> being thereby the better informed what Sums of Gold the <hi>Jews</hi> and other Traders into <hi>England</hi> do almoſt dayly import into this Kingdom, how<g ref="char:EOLhyphen"/>ever, as far as the Office he was in con<g ref="char:EOLhyphen"/>tributed to his privity and knowledge hereof, his own Avarice ('tis certain) was the main inſtrument of his Ruin; when not contented with ſo credible and competent portion of Worldly Happineſs as his Place with honeſty might have ſupplyed him withall, he durſt imbargue in ſo notorious a deſign, as has juſtly pulled down, not only its own vengeance along with it, but alſo that Arrears of Puniſhment, not till now paid, for all the tranſgreſi<g ref="char:EOLhyphen"/>ons of his former leud and enormorous Life.</p>
+            <p>As to his behaviour in Priſon ſince his Condemnation and nearer his day of Execution, his deportment has all along appeared very aery and uncon<g ref="char:EOLhyphen"/>cerned; and as for what Audit he may have made with God before his depar<g ref="char:EOLhyphen"/>ture, is wholly unknown; his Religeon whatever it were,, I ſhall not meddle with it.</p>
+            <p>The other perſon <hi>John Condon,</hi> Con<g ref="char:EOLhyphen"/>demned and Executed with the ſaid <hi>Hawly,</hi> was a Native of <hi>Ireland</hi> alſo, but the Tranſactions and Conduct of his Life, have no way been ſo remark<g ref="char:EOLhyphen"/>able, nor indeed is there any particu<g ref="char:EOLhyphen"/>lar of that Note, worth recounting here; let it ſuffice that as this Relati<g ref="char:EOLhyphen"/>on conſiſts of nothing but very great Truths; we have informed our ſelves of nothing more relating to the ſaid <hi>Condon,</hi> than that he ſomitime ſince kept a Chandlers Shop almoſt over a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:40100:3"/>
+               <!-- PDF PAGE 40 -->the <hi>Fountain Tavern</hi> in the <hi>Strand,</hi> near the <hi>Savoy.</hi>
+            </p>
+            <p>His behaviour in Priſon hath been much different from that of his fellow ſufferer, having had ſome remorſe for his ſo great offence.</p>
+            <p>On <hi>Friday</hi> between Ten and Eleven of the Clock in the Morning, they were put into a Cart at <hi>Newgate</hi> and convey<g ref="char:EOLhyphen"/>ed to the place of Execution, where being Arrived, were (making no Speech at all) Executed according to Law.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="permission_to_print">
+            <p>
+               <hi>This may be Printed,</hi> R P. <date>
+                  <hi>the</hi> 2d. <hi>of</hi> July, 1686.</date>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed by <hi>E. Mallet,</hi> next Door to Mr. <hi>Shipton's</hi> Coffee-Houſe near <hi>Fleet-bridge,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
